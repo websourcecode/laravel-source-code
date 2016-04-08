@@ -1,0 +1,13 @@
+# Change Log
+
+Go to https://git.hazzardweb.com for the latests changes.
+
+## 1.0.1 (2015-09-14)
+
+- Fix date.
+- Fix timeago plugin message.
+
+
+## 1.0.0 (2015-09-01)
+
+- Initial release.

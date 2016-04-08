@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "dependencies": {
+    "autosize": "^3.0.8",
+    "bower": "^1.4.1",
+    "gulp": "^3.9.0",
+    "laravel-elixir": "^3.2.3",
+    "laravel-elixir-js-uglify": "^1.0.1",
+    "minivents": "^1.1.7",
+    "vue": "^0.12.10"
+  }
+}
